@@ -1,1 +1,3 @@
-# lab-2.1-TRO
+Лабораторная работа 3.1
+
+Работа с IPython и Jupyter Notebook
